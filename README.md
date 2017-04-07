@@ -1,1 +1,4 @@
-# utility
+# Utility
+```
+npm install --save butility
+```
