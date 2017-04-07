@@ -1,4 +1,4 @@
-# Utility
+# Butility
 ```
 npm install --save butility
 ```
